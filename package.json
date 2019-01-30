@@ -11,9 +11,11 @@
     "postinstall": "electron-builder install-app-deps"
   },
   "dependencies": {
-    "vue": "^2.5.21",
     "electron": "^4.0.0",
-    "vue-cli-plugin-electron-builder": "^1.0.0-rc.10"
+    "material-components-web": "^0.43.1",
+    "vue": "^2.5.21",
+    "vue-cli-plugin-electron-builder": "^1.0.0-rc.10",
+    "vue-router": "^3.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.3.0",
