@@ -17,13 +17,13 @@ yarn install
 ### Compiles and hot-reloads for development
 
 ```bash
-yarn run serve
+yarn electron:serve
 ```
 
 ### Compiles and minifies for production
 
 ```bash
-yarn run build
+yarn electron:build
 ```
 
 ### Run your tests

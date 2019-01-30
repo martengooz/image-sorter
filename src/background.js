@@ -1,5 +1,4 @@
-
-
+// eslint-disable-next-line import/no-extraneous-dependencies
 import { app, protocol, BrowserWindow } from 'electron';
 import {
   createProtocol,
